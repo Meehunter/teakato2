@@ -28,7 +28,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Taufik20-kurnia/Clanhunter.git"
+    "url": "https://github.com/Taufik20-kurnia/teakato2.git"
   },
   "keywords": [
     "none"
@@ -36,7 +36,7 @@
   "author": "kato",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Taufik20-kurnia/Clanhunter/issues"
+    "url": "https://github.com/Taufik20-kurnia/teakato2/issues"
   },
-  "homepage": "https://github.com/Taufik20-kurnia/Clanhunter#readme"
+  "homepage": "https://github.com/Taufik20-kurnia/teakato2#readme"
 }
